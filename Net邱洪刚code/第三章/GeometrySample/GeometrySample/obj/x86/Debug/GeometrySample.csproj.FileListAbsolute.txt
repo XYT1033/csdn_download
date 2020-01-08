@@ -1,0 +1,16 @@
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\bin\Debug\GeometrySample.exe
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\bin\Debug\GeometrySample.pdb
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.Form1.resources
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.Properties.Resources.resources
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.exe
+E:\编书第二版\书籍代码\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.Form1.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.Properties.Resources.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.csproj.GenerateResource.Cache
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\bin\Debug\GeometrySample.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\bin\Debug\GeometrySample.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\GeometrySample\GeometrySample\obj\x86\Debug\GeometrySample.pdb

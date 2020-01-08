@@ -1,0 +1,16 @@
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\bin\Debug\lesson2.exe
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\bin\Debug\lesson2.pdb
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.Form1.resources
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.Properties.Resources.resources
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.exe
+E:\编书第二版\书籍代码\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\bin\Debug\lesson2.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\bin\Debug\lesson2.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.Form1.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.Properties.Resources.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第三章\lesson2\lesson2\obj\x86\Debug\lesson2.csproj.GenerateResource.Cache
