@@ -1,0 +1,16 @@
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.Form1.resources
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.Properties.Resources.resources
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\bin\Debug\FeatureEdit.exe
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\bin\Debug\FeatureEdit.pdb
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.exe
+E:\编书第二版\书籍代码\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.pdb
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.Form1.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.Properties.Resources.resources
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\obj\x86\Debug\FeatureEdit.csproj.GenerateResource.Cache
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\bin\Debug\FeatureEdit.exe
+D:\project_c++\csdnDownload\hub_csdn\Net邱洪刚code\第七章\FeatureEdit\FeatureEdit\bin\Debug\FeatureEdit.pdb
